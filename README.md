@@ -6,7 +6,6 @@ Olá 🤓. Sou a Rita João.
 - 🤓 Estudando HTML, CSS, Javascript e Java.
 - 📫 Como me encontrar: ritajoao0121@gmail.com
 - ⚡ Linguagens de programção: Java && HTML / CSS  && JavaScript && C
-- 🤖 Beecrowd: 15
-- 🤖 Exercism: 
+- 🤖 Beecrowd: 22
 
 -->
