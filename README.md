@@ -7,7 +7,7 @@ Olá 🤓. Sou a Rita João.
 - 📫 Como me encontrar: ritajoao0121@gmail.com
 - ⚡ Linguagens de programção: Java/C
 - 🤖 Beecrowd: 83
-- 🤖 Codewar: 19 
-- 🤖 Codeforces: 2
+- 🤖 Codewar: 4
+- 🤖 Codeforces: 4
 
 -->
